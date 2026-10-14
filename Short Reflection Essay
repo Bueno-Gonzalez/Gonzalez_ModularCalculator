@@ -1,0 +1,7 @@
+#Reflection essay
+
+1. The functions I made for my code were addition, subtraction, multiplication, and division, each doing their respective operations in my code.
+2. I used simple parameters such as "a" and "b" to serve as placeholders since they would be replaced by the numbers.
+3. The arguments that were used were num1 and num2, both were user inputs and were used in the repsective operations.
+4. My program used the returned value by printing it as the result, after inputing both values they were put through their operations and then printed.
+5. For me, it's better to use functions mainly for organization and a cleaner look, it also lets your single line of code be reused multiple times, and it's easier to debug and change.
